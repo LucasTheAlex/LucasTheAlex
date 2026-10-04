@@ -5,7 +5,7 @@
 I'm open to **remote QA roles** (LATAM / US time zones).
 
 ### 🔧 What I'm working on
-- **Freelance QA – Smart Scheduling System (PUC):** E2E automation with Playwright, CI/CD in GitHub Actions and cloud execution on Azure Playwright Testing.
+- **Freelance QA:** E2E automation with Playwright, CI/CD in GitHub Actions and cloud execution on Azure Playwright Testing.
 - Studying JavaScript/TypeScript and test automation patterns (Page Object Model, fixtures, API + UI tests).
 
 ### 📂 Featured projects
