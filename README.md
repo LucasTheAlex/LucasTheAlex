@@ -13,7 +13,6 @@ I'm open to **remote QA roles** (LATAM / US time zones).
 |---|---|
 | [Playwright Automation Testing](https://github.com/LucasTheAlex/Playwright-Automation-Testing---Rahul-Shetty) | UI + API tests with Playwright, Page Object Model, custom fixtures, data-driven tests, GitHub Actions + Azure Playwright Testing |
 | [Book Store API Test](https://github.com/LucasTheAlex/Book-Store-API-Test) | Postman test suite covering user, auth and cart flows of a Book Store API |
-| [ZenList](https://github.com/LucasTheAlex/ZenList) | Desktop to-do app with timed notifications |
 
 ### 🧰 Tools
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
